@@ -6,7 +6,9 @@
 ![image](https://i.imgur.com/eXcootZ.png)
 - Next open the **EmailClientSystem** Folder in intellij or eclipse.
 - Click on the file icon on the top lest corner and select the **Project Structure** options.
+- 
 ![image](https://i.imgur.com/C7Bcpol.png)
+
 - This is open a popup menu where you need to go to the libraries section 
 ![image](https://i.imgur.com/hS191Gj.png)
 - Next a second popup menu will apeare and select the **java lib\activation.jar, java lib\javax.mail.jar** and click apply.
