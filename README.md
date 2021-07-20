@@ -13,7 +13,7 @@
 ![image](https://i.imgur.com/hS191Gj.png)
 - Next a second popup menu will apeare and select the **java lib\activation.jar, java lib\javax.mail.jar** and click apply.
 ![image](https://i.imgur.com/GE33HPt.png)
-- Repete the same thing bu this time select the **java lib\javafx-sdk-16\lib** folder and choose all the jar files there.
+- Repeate the same thing bu this time select the **java lib\javafx-sdk-16\lib** folder and choose all the jar files there.
 ![image](https://i.imgur.com/OAp1VRo.png)
 - Click and apply and ***ok** now.
 - The External libraries should look like this.
